@@ -1,4 +1,4 @@
-Technology & hardware used.
+#Technology & hardware used.
 1.)	Development & environment
 a.	Python 
 b.	Anaconda Command prompt
