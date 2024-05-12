@@ -1,13 +1,16 @@
-#Technology & hardware used.
-1.)	Development & environment
-a.	Python 
-b.	Anaconda Command prompt
-2.)	Production Environment
-a.	Python 3.6.8
-b.	OpenCV
-3.)	Supporting libraries 
-a.	Dlib
-b.	Tensorflow
-c.	Cv2
-d.	Sqlite3
-e.	Keras
+# Technology & Hardware Used
+
+## Development & Environment
+1. **Python**
+2. **Anaconda Command Prompt**
+
+## Production Environment
+1. **Python 3.6.8**
+2. **OpenCV**
+
+## Supporting Libraries
+1. **Dlib**
+2. **Tensorflow**
+3. **Cv2**
+4. **Sqlite3**
+5. **Keras**
